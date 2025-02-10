@@ -61,18 +61,18 @@
     <div class="container">
         <section id="home">
             <h2>Home</h2>
-            <p>This is the home section of my simple website. Here, I will introduce you to my content.</p>
+            <p>This is the home section of my simple website. Here, is my name pel joang kim.</p>
         </section>
 
         <section id="about">
             <h2>About</h2>
-            <p>This section tells you a bit about the website or the person behind it. I'm passionate about web development and learning new technologies!</p>
+            <p>This section tells you a bit about the person behind it. I'm software engineer!</p>
             <img src="https://via.placeholder.com/400" alt="Placeholder Image" width="400" />
         </section>
 
         <section id="contact">
             <h2>Contact</h2>
-            <p>If you'd like to reach out, feel free to <a href="mailto:someone@example.com">email me</a>.</p>
+            <p>If want to ask , feel free this is my phone number +251901644465 <a href="mailto:someone@example.com">peljoang@gmail.com</a>.</p>
         </section>
     </div>
 
